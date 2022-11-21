@@ -28,6 +28,7 @@ let hotel_Three = { // Notação Literal
       console.log(this.rooms - this.booked)
    }
 }
+
 hotel_Three.checkAvailability()
 
 function hotelFour (name,rooms,booked) {
